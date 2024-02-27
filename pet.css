@@ -1,0 +1,306 @@
+div#para{
+    display: inline-flex;
+    margin-left: 60px;
+}
+div#main1{
+    border: 1px solid transparent;
+    width: 100%;
+    height: 750px;
+    background-image: url(image/dog1.webp);
+    background-size: 1400px  750px;
+
+    
+    
+}
+#navbar{
+    border: 1px solid black;
+    width: 90%;
+    min-height: 40px;
+    height: 98px;
+    display: inline-flex;
+    margin-left: 60px;
+    background: white;
+
+}
+h1#Petvet{
+    font-size: 30px;
+    margin-top: -49px;
+    margin-left: 100px;
+}
+p#PetCare{
+    font-size: 20px;
+    margin-top: -20px;
+    margin-left: 100px;
+}
+#navbar2{
+    margin-top: 40px;
+    margin-left: 190PX;
+    
+    
+}
+#navbar2 a{
+    
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 18px;
+}
+#navbar3{
+    margin-left: 30PX;
+}
+#goku{
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+}
+button#FreeConsultion{
+         height: 60px;
+         width: 150px;
+         margin-top: 20px;
+         margin-left: -20px;
+    
+}
+#background{
+    width: 50%;
+}
+                             /* heading and para html 84line */
+        
+                             h1#haed1{
+                                font-family: Georgia, 'Times New Roman', Times, serif;
+                                font-size: 50px;
+                                margin-left: 60px;
+                        
+                            }          
+                            p#para1{
+                                font-family: Georgia, 'Times New Roman', Times, serif;
+                                font-size: 16px;
+                                margin-left: 60px;
+                            }               
+                                                                /* heading and para end */
+                                                                /* button start */
+                            button#button1{
+                                width: 190px;
+                                height: 60px;
+                                background-color: pink;
+                                border-color: pink;
+                                color: white;
+                                margin-left: 60px;
+                                font-size: 14px;
+                            }
+                            button#button2{
+                                width: 190px;
+                                height: 60px;
+                                background-color:#91c235 ;
+                                border-color: #91c235;
+                                color: white;
+                                margin-left: 4px;
+                                font-size: 14px;
+                            }
+                            button#button2:hover{
+                                background: #fff !important;
+                                border-color:#fff;
+                                color: #91c235;
+                            }
+                                                                /* button start */
+                                         
+                        
+                        
+                                                          /* Service html 106line */
+                        div#Service{
+                            border: 1px solid transparent;
+                            width: 100%;
+                            height: 200px;
+                            margin-top: 50px;
+                            display: inline-flex;
+                            margin-top: 150px;
+                        }
+                                                   /* Service1 start html 109line */
+                        div#Service1{
+                            
+                            border: 1px solid #91c235;
+                            width: 30%;
+                            height: 200px;
+                            background: #fff;
+                            margin-left: 40px;
+                        
+                        }
+                        div#Service1:hover{
+                            background: #91c235;
+                            color: white;
+                            transform: scale(1.05);
+                        }
+                        #Serviceimg{
+                            width: 100px;
+                            height: 80px;
+                            margin-top: 50px;
+                            margin-left : 20px;
+                        
+                        }
+                        #Serviceh1{
+                            margin-left: 120px;
+                            margin-top: -70px;
+                            font-size: 26px;
+                        }
+                        #Servicepara{
+                            margin-left: 120px;
+                            margin-top: 10px;
+                            font-size: 15px;
+                        }
+                                                         /* Service1 end */
+                                                          /* Service2 start html 122line */
+                        div#Service2{
+                            
+                            border: 1px solid #91c235;
+                            width: 30%;
+                            height: 200px;
+                            background: #fff;
+                            margin-left: 20px;
+                        
+                        }
+                        div#Service2:hover{
+                            background:pink;
+                            color:  #91c235;
+                            transform: scale(1.05);
+                        }
+                        #Serviceimg{
+                            width: 100px;
+                            height: 80px;
+                            margin-top: 50px;
+                            margin-left : 20px;
+                        
+                        }
+                        #Serviceh2{
+                            margin-left: 120px;
+                            margin-top: -70px;
+                            font-size: 26px;
+                        }
+                        #Servicepara1{
+                            margin-left: 120px;
+                            margin-top: 10px;
+                            font-size: 15px;
+                        }
+                                                                /* Service2 end */
+                                                                 /* Service3 start html 135line */
+                        div#Service3{
+                            
+                            border: 1px solid #91c235;
+                            width: 30%;
+                            height: 200px;
+                            background: #fff;
+                            margin-left: 20px;
+                        
+                        }
+                        div#Service3:hover{
+                            background:transparent;
+                            color:  #91c235;
+                            transform: scale(1.05);
+                        }
+                        #Serviceimg{
+                            width: 100px;
+                            height: 80px;
+                            margin-top: 50px;
+                            margin-left : 20px;
+                        
+                        }
+                        #Serviceh3{
+                            margin-left: 120px;
+                            margin-top: -70px;
+                            font-size: 26px;
+                        }
+                        #Servicepara2{
+                            margin-left: 120px;
+                            margin-top: 10px;
+                            font-size: 15px;
+                        }               
+                                                  /* services3 end                       */
+
+
+                                                 /* secondmain DIV START html 151line   */
+        div#secondmain{
+            border: 1px solid transparent;
+            width: 100%;
+            height: 800px;
+            background-color: #f8f9fa;
+            display: flex;
+          
+        }
+        div#second{
+            border: 1px solid white;
+            width: 36%;
+            height: 600px;
+            margin-left: 80px;
+            margin-top: 180px;
+
+        }
+        img#secondimg{
+            width: 100%;
+            height: 600px;
+
+        }
+                                    /* secondmain DIV END   */
+        
+                                /* headding,para,image with para stsrt  html 162line */
+        div#second1{
+            border: 1px solid transparent;
+            width: 54%;
+            height: 600px;
+            margin-left: 80px;
+            margin-top: 180px;
+        }                        
+        a#second1a{
+            text-decoration: none;
+            color: red;
+        }
+        #secondimgmale{
+            width: 10%;
+            margin-left: 60px;
+            margin-top: 10px;
+        }
+        #secondpara{
+            margin-left: 130px;
+            margin-top: -45px;
+        }
+        #secondpara1{
+            margin-left: 130px;
+            margin-top: -35px;
+        }
+                                 /* headding,para,image with para end   */
+                                
+                                 /* information div html 167line  */
+                                              /* thirdmaindiv html 166line   */
+        #thirdmaindiv{
+            border: 1px solid transparent;
+            width: 100%;
+            height: 250px;
+        }
+    #appointment-heading {
+    font-size: 14px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #fd4c82;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 900;}
+  #input1{
+    border: 1px solid rgba(0, 0, 0, 0.1) !important;
+    height: 54px !important;
+    margin-left: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: #fff !important;
+    color: rgba(0, 0, 0, 0.5) !important;
+    font-size: 16px;
+    border-radius: 0;
+    -webkit-box-shadow: none !important;
+  }
+  #input2{
+    border: 1px solid rgba(0, 0, 0, 0.1) !important;
+    height: 54px !important;
+    margin-left: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background: #fff !important;
+    color: rgba(0, 0, 0, 0.5) !important;
+    font-size: 16px;
+    border-radius: 0;
+    -webkit-box-shadow: none !important;
+  } 
